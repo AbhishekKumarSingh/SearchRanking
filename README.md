@@ -1,5 +1,5 @@
-                                        Searching application
-                                       =========================
+#Searching application
+=========================
 
 This is a simple searching application that uses page ranking to display top five (or few) pages for a query.
 
